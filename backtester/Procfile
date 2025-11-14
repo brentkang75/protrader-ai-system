@@ -1,0 +1,1 @@
+worker: python pro_backtester_fixed.py --pair BTCUSDT --tf 15m --limit 1000
